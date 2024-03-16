@@ -370,9 +370,6 @@ nav{
     transition: all ease 0.5s;
 }
 
-
-
-
 .blur-box-2  i{
     font-size: 30px;
     color: white;
@@ -619,7 +616,7 @@ nav{
     width: 50%;
     height: 95%;
     border-radius: 50%;
-    
+    background-image: url(/images/Like.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -699,7 +696,7 @@ nav{
     width: 50%;
     height: 95%;
     border-radius: 50%;
-    background-image: url(pngwing.com\ \(2\).png);
+    background-image: url(/images/Emoji.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -781,7 +778,7 @@ nav{
     width: 50%;
     height: 90%;
     border-radius: 50%;
-    background-image: url(pngwing.com\ \(1\).png);
+    background-image: url(/images/Like.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
