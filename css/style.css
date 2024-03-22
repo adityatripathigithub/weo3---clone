@@ -57,37 +57,26 @@ width: 100%;
 }
 
 
+
+
 nav{
     color: rgb(135, 135, 135);
-    position: absolute;
-    top: 6%;
-    left: 25%;   
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25%;
+    padding-right: 30%;
+    padding-top: 3%;
     font-weight: 700;
+    font-size: 25px;
 }
 
-#span2{
-    position: absolute;
-    left: 20vh;
+nav h6{
+    transition: all ease 0.3s;
 }
 
-#span3{
-    position: absolute;
-    left: 40vh;
-}
-
-#span4{
-    position: absolute;
-    left: 60vh;
-}
-
-#span5{
-    position: absolute;
-    left: 80vh;
-}
-
-#span6{
-    position: absolute;
-    left: 100vh;
+nav h6:hover{
+    color: white;
+    transform: scale(120%);
 }
 
 .box h2{
